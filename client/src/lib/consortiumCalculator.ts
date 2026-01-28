@@ -59,7 +59,7 @@ export function formatConsortiumForWhatsApp(
   email: string,
   calculation: ConsortiumCalculation
 ): string {
-  return `*SIMULAÇÃO DE CONSÓRCIO - FIRME INVESTIMENTOS*
+  return `*SIMULAÇÃO DE CONSÓRCIO - ANDREOLI CONSÓRCIOS*
 
 👤 *Dados do Cliente:*
 Nome: ${name}
@@ -90,7 +90,7 @@ export function formatInvestmentForWhatsApp(
   monthlyAmount: string,
   timeframe: string
 ): string {
-  return `*SIMULAÇÃO DE INVESTIMENTO - FIRME INVESTIMENTOS*
+  return `*SIMULAÇÃO DE INVESTIMENTO - ANDREOLI CONSÓRCIOS*
 
 👤 *Dados do Cliente:*
 Nome: ${name}

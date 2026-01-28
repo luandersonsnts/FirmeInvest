@@ -103,7 +103,7 @@ export default function AdminPage() {
   return (
     <div className="min-h-screen bg-gray-100 py-8">
       <div className="container mx-auto px-4">
-        <h1 className="text-3xl font-bold text-gray-900 mb-8">Painel Administrativo - FIRME INVESTIMENTOS</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-8">Painel Administrativo - ANDREOLI CONSÓRCIOS</h1>
         
         {isStaticSite && (
           <div className="bg-yellow-50 border border-yellow-200 rounded-md p-4 mb-6">

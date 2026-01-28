@@ -22,7 +22,7 @@ export default function Home() {
             Junte-se aos investidores que já transformaram suas vidas.
           </h2>
           <h3 className="text-2xl font-bold text-firme-blue mb-8">
-            Construa seu patrimônio com a FIRME INVESTIMENTOS!
+            Construa seu patrimônio com a ANDREOLI CONSÓRCIOS!
           </h3>
           
           <button 

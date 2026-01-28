@@ -18,7 +18,7 @@ export default function Hero() {
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               Tenha acesso às melhores estratégias de investimento e construa uma base financeira sólida para o seu futuro. 
-              Na <strong>FIRME INVESTIMENTOS</strong> você encontra soluções personalizadas para cada perfil de investidor.
+              Na <strong>ANDREOLI CONSÓRCIOS</strong> você encontra soluções personalizadas para cada perfil de investidor.
             </p>
             
             <button 

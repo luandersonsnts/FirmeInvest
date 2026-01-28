@@ -108,8 +108,7 @@ ${data.message}
             Reclame Aqui
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Sua opinião é muito importante para nós. Utilize este espaço para registrar reclamações, sugestões ou elogios. 
-            Respondemos todas as mensagens em até 24 horas.
+            Sua opinião é muito importante para a ANDREOLI CONSÓRCIOS. Utilize este canal para enviar sugestões, elogios ou reclamações sobre nossos serviços.
           </p>
         </div>
         

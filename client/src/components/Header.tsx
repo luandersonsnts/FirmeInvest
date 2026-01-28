@@ -20,7 +20,7 @@ export default function Header() {
             alt="FIRME INVESTIMENTOS Logo" 
             className="w-12 h-12 mr-3"
           />
-          <span className="text-firme-gray font-bold text-xl">FIRME INVESTIMENTOS</span>
+          <span className="text-firme-gray font-bold text-xl">ANDREOLI CONSÓRCIOS</span>
         </div>
         
         <nav className="hidden md:flex space-x-8">

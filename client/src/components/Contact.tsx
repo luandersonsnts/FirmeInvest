@@ -16,28 +16,28 @@ export default function Contact() {
           
           <div>
             <h2 className="text-3xl lg:text-4xl font-bold text-firme-gray mb-6">
-              Na FIRME INVESTIMENTOS você encontra as melhores soluções para construir um patrimônio sólido e duradouro.
+              Na ANDREOLI CONSÓRCIOS você encontra as melhores soluções para construir um patrimônio sólido e duradouro.
             </h2>
             
             <h3 className="text-2xl font-bold text-firme-blue mb-8">Contatos</h3>
             
             <div className="space-y-4">
               <a 
-                href="https://api.whatsapp.com/send?phone=558799143-6244&text=Olá,%20tenho%20interesse%20em%20conhecer%20as%20soluções%20da%20FIRME%20INVESTIMENTOS%20para%20construir%20meu%20patrimônio!" 
+                href="https://api.whatsapp.com/send?phone=5574981213461&text=Olá,%20tenho%20interesse%20em%20conhecer%20as%20soluções%20da%20ANDREOLI%20CONSÓRCIOS%20para%20conquistar%20meus%20objetivos!" 
                 className="flex items-center text-firme-gray hover:text-firme-blue transition-colors"
                 data-testid="link-whatsapp"
               >
                 <SiWhatsapp className="text-green-500 text-xl mr-3" />
-(87) 99143-6244
+(74) 98121-3461
               </a>
               
               <a 
-                href="tel:+558799143-6244" 
+                href="tel:+5574981213461" 
                 className="flex items-center text-firme-gray hover:text-firme-blue transition-colors"
                 data-testid="link-phone"
               >
                 <Phone className="text-firme-blue text-xl mr-3" />
-(87) 99143-6244
+(74) 98121-3461
               </a>
               
               <a 

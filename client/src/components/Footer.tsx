@@ -16,7 +16,7 @@ export default function Footer() {
                 alt="FIRME INVESTIMENTOS Logo" 
                 className="w-10 h-10 mr-3"
               />
-              <span className="text-white font-bold text-xl">FIRME INVESTIMENTOS</span>
+              <span className="text-white font-bold text-xl">ANDREOLI CONSÓRCIOS</span>
             </div>
             <p className="text-gray-300 mb-4">
               Construindo patrimônios sólidos com estratégias de investimento personalizadas.
